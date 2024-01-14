@@ -1,0 +1,6 @@
+{
+  "name": "simple-typesafe-router",
+  "license": "MIT",
+  "private": true,
+  "workspaces": ["apps/*", "packages/*"]
+}
